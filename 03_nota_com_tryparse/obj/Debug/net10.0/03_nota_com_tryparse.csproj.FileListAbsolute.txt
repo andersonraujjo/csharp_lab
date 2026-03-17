@@ -1,0 +1,14 @@
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\bin\Debug\net10.0\03_nota_com_tryparse.exe
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\bin\Debug\net10.0\03_nota_com_tryparse.deps.json
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\bin\Debug\net10.0\03_nota_com_tryparse.runtimeconfig.json
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\bin\Debug\net10.0\03_nota_com_tryparse.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\bin\Debug\net10.0\03_nota_com_tryparse.pdb
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.AssemblyInfoInputs.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.AssemblyInfo.cs
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\refint\03_nota_com_tryparse.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.pdb
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\03_nota_com_tryparse.genruntimeconfig.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\03_nota_com_tryparse\obj\Debug\net10.0\ref\03_nota_com_tryparse.dll

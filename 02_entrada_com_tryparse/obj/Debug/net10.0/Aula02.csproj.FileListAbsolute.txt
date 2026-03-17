@@ -1,0 +1,14 @@
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.AssemblyInfo.cs
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\bin\Debug\net10.0\Aula02.exe
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\bin\Debug\net10.0\Aula02.deps.json
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\bin\Debug\net10.0\Aula02.runtimeconfig.json
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\bin\Debug\net10.0\Aula02.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\bin\Debug\net10.0\Aula02.pdb
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\refint\Aula02.dll
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.pdb
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\Aula02.genruntimeconfig.cache
+C:\Users\ander\Dropbox\DEV\c#\exercicios\02_entrada_com_tryparse\obj\Debug\net10.0\ref\Aula02.dll

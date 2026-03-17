@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/01_entrada_com_parse/">
+    <Project Path="01_entrada_com_parse/Aula01.csproj" />
+  </Folder>
+  <Folder Name="/02_entrada_com_tryparse/">
+    <Project Path="02_entrada_com_tryparse/Aula02.csproj" />
+  </Folder>
+  <Project Path="04_com_while/04_com_while.csproj" />
+  <Project Path="05_aula_marcelo/05_aula_marcelo.csproj" />
+  <Project Path="06_aula_marcelo_way/06_aula_marcelo_way.csproj" />
+  <Project Path="07_aula/07_aula.csproj" />
+</Solution>
