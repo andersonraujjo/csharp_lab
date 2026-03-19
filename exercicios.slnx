@@ -9,4 +9,6 @@
   <Project Path="05_aula_marcelo/05_aula_marcelo.csproj" />
   <Project Path="06_aula_marcelo_way/06_aula_marcelo_way.csproj" />
   <Project Path="07_aula/07_aula.csproj" />
+  <Project Path="08_classe/08_classe.csproj" />
+  <Project Path="09_variaveis/09_variaveis.csproj" />
 </Solution>
