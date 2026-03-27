@@ -15,4 +15,10 @@
   <Project Path="11_produto/11_produto.csproj" />
   <Project Path="12_calculadora_dio/12_calculadora_dio.csproj" />
   <Project Path="13_funcoes_trigonometricas/13_funcoes_trigonometricas.csproj" />
+  <Project Path="14_for/14_for.csproj" />
+  <Project Path="15_while/15_while.csproj" />
+  <Project Path="16_dowhile/16_dowhile.csproj" />
+  <Project Path="17_array/17_array.csproj" />
+  <Project Path="18_listas/18_listas.csproj" />
+  <Project Path="19_estacionamento_projeto/19_estacionamento_projeto.csproj" />
 </Solution>
