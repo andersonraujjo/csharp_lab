@@ -21,4 +21,5 @@
   <Project Path="17_array/17_array.csproj" />
   <Project Path="18_listas/18_listas.csproj" />
   <Project Path="19_estacionamento_projeto/19_estacionamento_projeto.csproj" />
+  <Project Path="20_classe_pessoa/20_classe_pessoa.csproj" />
 </Solution>
