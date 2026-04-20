@@ -12,4 +12,24 @@ public class Curso
     }
 
 
+    public int ObterQuantidadeDeAlunosMatriculados()
+    {
+        int quantidade = Alunos.Count;
+        return quantidade;
+    }
+
+    public bool RemoverAluno(Pessoa aluno)
+    {
+        Alunos.Remove(aluno);
+        return true;
+    }
+
+    public void ListarAlunos()
+    {
+        foreach(Pessoa aluno in Alunos)
+        {
+            Console.WriteLine(aluno.NomeCompleto);
+        }
+    } 
+
 }
